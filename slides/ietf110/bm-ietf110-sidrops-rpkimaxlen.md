@@ -22,6 +22,8 @@ Authors:
 > - Job Snijders
 > - Ben Maddison
 
+---
+
 ## Recap
 
 -   Targeted at *BCP* status
@@ -30,6 +32,8 @@ Authors:
     - Why *non-minimal ROAs* make such an attack easier/more effective?
     - Why use of `maxLength` often results in a *non-minimal ROA*?
 -   Recommendation: **don't do that**
+
+---
 
 ## Recent Updates
 
@@ -44,7 +48,7 @@ Authors:
 
 See github [issue #2](https://github.com/goldbe/draft-rpki-maxlength/issues/2)
 
-## Recent Updates (cont.)
+---
 
 ### Section 4: **Measurements**
 
@@ -64,7 +68,7 @@ See github [issue #2](https://github.com/goldbe/draft-rpki-maxlength/issues/2)
 
 See github [issue #4](https://github.com/goldbe/draft-rpki-maxlength/issues/4)
 
-## Recent Updates (cont..)
+---
 
 ### Section 5: **Recommendation Updates**
 
@@ -82,7 +86,7 @@ See github [issue #4](https://github.com/goldbe/draft-rpki-maxlength/issues/4)
 See github [issue #3](https://github.com/goldbe/draft-rpki-maxlength/issues/3)
        and [issue #5](https://github.com/goldbe/draft-rpki-maxlength/issues/5)
 
-## Recent Updates (cont...)
+---
 
 ### Section 6: **RTBH Signalling**
 
@@ -96,6 +100,8 @@ See github [issue #3](https://github.com/goldbe/draft-rpki-maxlength/issues/3)
     - *Recommends* that RTBH-signalling mechanisms not require non-minimal ROAs
 
 See github [issue #6](https://github.com/goldbe/draft-rpki-maxlength/issues/6)
+
+---
 
 ## Next Steps
 
